@@ -3,6 +3,8 @@ Homework for Week 1: Module 01: HTML, CSS, and Git
 ___
 ## SEO Optimized Application
 ### [Horiseon](https://josejpd3.github.io/01-Module-Challenge/#social-media-marketing) has been optimized for higher ranking in search engines.
+
+
 ___
 
  **Changes :**
@@ -20,7 +22,7 @@ ___
 ![Before](./assets/images/benefits-code-snippet.jpg)
 
 **After :**
-![Before](./assets/images/aside-code-snippet.jpg)
+![After](./assets/images/aside-code-snippet.jpg)
 ___
 
 ## Concise and Descriptive Title
@@ -31,3 +33,5 @@ ___
 ## Alternative Text Attributes
 Added `alt=""` attributes to make it more accesible and to obtain a greater SEO.
 ![alt](./assets/images/alt-code-snippet.jpg)
+
+
